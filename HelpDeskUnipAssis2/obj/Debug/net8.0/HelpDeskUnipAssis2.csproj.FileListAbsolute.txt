@@ -294,13 +294,9 @@ C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\bin
 C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -522,3 +518,8 @@ C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\obj
 C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\obj\Debug\net8.0\HelpDeskUnipAssis2.pdb
 C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\obj\Debug\net8.0\HelpDeskUnipAssis2.genruntimeconfig.cache
 C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\obj\Debug\net8.0\ref\HelpDeskUnipAssis2.dll
+C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fhalv\Documents\GitHub\2sem\HelpDeskUnipAssisAPI\HelpDeskUnipAssis2\obj\Debug\net8.0\HelpDeskUnipAssis2.MvcApplicationPartsAssemblyInfo.cs
