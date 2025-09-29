@@ -1,0 +1,26 @@
+﻿@page
+@model HelpDeskUnipAssis.Pages.LoginModel
+
+<h2>Tela de Login</h2>
+
+<form method="post">
+    <div>
+        <label>Email:</label>
+        <input asp-for="Email" />
+    </div>
+    <div>
+        <label>Senha:</label>
+        <input asp-for="Senha" type="password" />
+    </div>
+    <button type="submit">Entrar</button>
+</form>
+
+<p style="color:red">@Model.Mensagem</p>
+
+<hr />
+
+<p>
+    Não tem conta?
+    <a asp-page="/Usuarios/Create">Cadastre-se aqui</a>
+</p>
+
